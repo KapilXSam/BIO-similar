@@ -1,0 +1,8 @@
+{
+  "name": "Biosimilar Intelligence Hub",
+  "description": "An advanced web application to monitor, filter, categorize, and analyze news from pharmaceutical and biosimilar sources, generating a weekly competitive intelligence report.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
